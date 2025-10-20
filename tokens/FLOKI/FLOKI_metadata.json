@@ -1,0 +1,18 @@
+{
+  "name": "Floki",
+  "symbol": "FLOKI",
+  "description": "Floki token",
+  "image": "https://raw.githubusercontent.com/GogaSam/chops_runner/main/tokens/FLOKI/icon_512.png",
+  "external_url": "-",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { trait_type: twitter, value: - ,}
+    { trait_type: telegram, value: - }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/GogaSam/chops_runner/main/tokens/FLOKI/icon_512.png", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
