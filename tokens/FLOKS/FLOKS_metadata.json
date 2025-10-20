@@ -1,0 +1,15 @@
+{
+  "name": "FLOKS",
+  "symbol": "FLOKS",
+  "description": "FLOKS token",
+  "image": "https://raw.githubusercontent.com/GogaSam/chops_runner/main/tokens/FLOKS/icon_512.png",
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/GogaSam/chops_runner/main/tokens/FLOKS/icon_512.png", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
