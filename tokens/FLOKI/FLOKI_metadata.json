@@ -1,13 +1,13 @@
 {
-  "name": "Floki",
+  "name": "FLOKI",
   "symbol": "FLOKI",
-  "description": "Floki token",
+  "description": "FLOKI token",
   "image": "https://raw.githubusercontent.com/GogaSam/chops_runner/main/tokens/FLOKI/icon_512.png",
-  "external_url": "-",
+  "external_url": "",
   "seller_fee_basis_points": 0,
   "attributes": [
-    { trait_type: twitter, value: - ,}
-    { trait_type: telegram, value: - }
+    ,}
+    }
   ],
   "properties": {
     "files": [
