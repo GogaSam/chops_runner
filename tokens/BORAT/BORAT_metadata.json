@@ -1,0 +1,15 @@
+{
+  "name": "BORAT",
+  "symbol": "BORAT",
+  "description": "BORAT token",
+  "image": "https://raw.githubusercontent.com/GogaSam/chops_runner/main/tokens/BORAT/icon_512.png",
+  "external_url": "https://en.wikipedia.org/wiki/Borat",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/GogaSam/chops_runner/main/tokens/BORAT/icon_512.png", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
